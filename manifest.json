@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "name": "Page Navigator",
+    "name": "Page Navigator on ravelry",
     "version": "1.0",
     "description": "Use J and K keys to navigate pages on ravelry.",
     "permissions": [
